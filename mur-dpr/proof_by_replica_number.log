@@ -1,0 +1,1060 @@
+1
+1-th exp in Replica 1
+Running...
+Tag generation costs 23.646995 seconds
+Proof generation costs 0.333659 seconds
+proof verifies in Replica 0
+Proof verification costs 1.410073 seconds
+2-th exp in Replica 1
+Running...
+Tag generation costs 23.757179 seconds
+Proof generation costs 0.332481 seconds
+proof verifies in Replica 0
+Proof verification costs 1.410919 seconds
+3-th exp in Replica 1
+Running...
+Tag generation costs 23.666564 seconds
+Proof generation costs 0.333277 seconds
+proof verifies in Replica 0
+Proof verification costs 1.411626 seconds
+4-th exp in Replica 1
+Running...
+Tag generation costs 23.622400 seconds
+Proof generation costs 0.333764 seconds
+proof verifies in Replica 0
+Proof verification costs 1.410952 seconds
+5-th exp in Replica 1
+Running...
+Tag generation costs 23.613322 seconds
+Proof generation costs 0.332606 seconds
+proof verifies in Replica 0
+Proof verification costs 1.410946 seconds
+6-th exp in Replica 1
+Running...
+Tag generation costs 23.553088 seconds
+Proof generation costs 0.332666 seconds
+proof verifies in Replica 0
+Proof verification costs 1.412643 seconds
+7-th exp in Replica 1
+Running...
+Tag generation costs 23.637280 seconds
+Proof generation costs 0.333896 seconds
+proof verifies in Replica 0
+Proof verification costs 1.414285 seconds
+8-th exp in Replica 1
+Running...
+Tag generation costs 23.512842 seconds
+Proof generation costs 0.333287 seconds
+proof verifies in Replica 0
+Proof verification costs 1.410447 seconds
+9-th exp in Replica 1
+Running...
+Tag generation costs 23.653827 seconds
+Proof generation costs 0.332380 seconds
+proof verifies in Replica 0
+Proof verification costs 1.412553 seconds
+10-th exp in Replica 1
+Running...
+Tag generation costs 23.550029 seconds
+Proof generation costs 0.333087 seconds
+proof verifies in Replica 0
+Proof verification costs 1.419429 seconds
+2
+1-th exp in Replica 2
+Running...
+Tag generation costs 47.331916 seconds
+Proof generation costs 0.666217 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+Proof verification costs 2.831245 seconds
+2-th exp in Replica 2
+Running...
+Tag generation costs 47.231926 seconds
+Proof generation costs 0.668394 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+Proof verification costs 2.833460 seconds
+3-th exp in Replica 2
+Running...
+Tag generation costs 47.137050 seconds
+Proof generation costs 0.664759 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+Proof verification costs 2.821652 seconds
+4-th exp in Replica 2
+Running...
+Tag generation costs 47.288864 seconds
+Proof generation costs 0.673417 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+Proof verification costs 2.845472 seconds
+5-th exp in Replica 2
+Running...
+Tag generation costs 47.553885 seconds
+Proof generation costs 0.670083 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+Proof verification costs 2.833704 seconds
+6-th exp in Replica 2
+Running...
+Tag generation costs 47.235491 seconds
+Proof generation costs 0.670661 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+Proof verification costs 2.837925 seconds
+7-th exp in Replica 2
+Running...
+Tag generation costs 47.192157 seconds
+Proof generation costs 0.673271 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+Proof verification costs 2.855418 seconds
+8-th exp in Replica 2
+Running...
+Tag generation costs 47.189812 seconds
+Proof generation costs 0.675520 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+Proof verification costs 2.833178 seconds
+9-th exp in Replica 2
+Running...
+Tag generation costs 47.083585 seconds
+Proof generation costs 0.666739 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+Proof verification costs 2.822723 seconds
+10-th exp in Replica 2
+Running...
+Tag generation costs 47.163042 seconds
+Proof generation costs 0.666513 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+Proof verification costs 2.825703 seconds
+3
+1-th exp in Replica 3
+Running...
+Tag generation costs 70.798314 seconds
+Proof generation costs 1.005694 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+Proof verification costs 4.264351 seconds
+2-th exp in Replica 3
+Running...
+Tag generation costs 70.965613 seconds
+Proof generation costs 0.998617 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+Proof verification costs 4.232883 seconds
+3-th exp in Replica 3
+Running...
+Tag generation costs 70.989428 seconds
+Proof generation costs 0.999535 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+Proof verification costs 4.245506 seconds
+4-th exp in Replica 3
+Running...
+Tag generation costs 70.830411 seconds
+Proof generation costs 0.996570 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+Proof verification costs 4.228231 seconds
+5-th exp in Replica 3
+Running...
+Tag generation costs 70.861402 seconds
+Proof generation costs 0.998418 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+Proof verification costs 4.229507 seconds
+6-th exp in Replica 3
+Running...
+Tag generation costs 70.571219 seconds
+Proof generation costs 1.007065 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+Proof verification costs 4.263015 seconds
+7-th exp in Replica 3
+Running...
+Tag generation costs 71.009411 seconds
+Proof generation costs 1.000246 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+Proof verification costs 4.244762 seconds
+8-th exp in Replica 3
+Running...
+Tag generation costs 71.413627 seconds
+Proof generation costs 1.005553 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+Proof verification costs 4.284722 seconds
+9-th exp in Replica 3
+Running...
+Tag generation costs 70.813526 seconds
+Proof generation costs 1.000721 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+Proof verification costs 4.238877 seconds
+10-th exp in Replica 3
+Running...
+Tag generation costs 71.052228 seconds
+Proof generation costs 0.999451 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+Proof verification costs 4.237687 seconds
+4
+1-th exp in Replica 4
+Running...
+Tag generation costs 94.626861 seconds
+Proof generation costs 1.340034 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+Proof verification costs 5.650385 seconds
+2-th exp in Replica 4
+Running...
+Tag generation costs 94.536249 seconds
+Proof generation costs 1.330279 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+Proof verification costs 5.653172 seconds
+3-th exp in Replica 4
+Running...
+Tag generation costs 94.281679 seconds
+Proof generation costs 1.330678 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+Proof verification costs 5.643697 seconds
+4-th exp in Replica 4
+Running...
+Tag generation costs 94.214976 seconds
+Proof generation costs 1.332291 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+Proof verification costs 5.644194 seconds
+5-th exp in Replica 4
+Running...
+Tag generation costs 94.091592 seconds
+Proof generation costs 1.331163 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+Proof verification costs 5.654778 seconds
+6-th exp in Replica 4
+Running...
+Tag generation costs 94.457551 seconds
+Proof generation costs 1.333148 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+Proof verification costs 5.658970 seconds
+7-th exp in Replica 4
+Running...
+Tag generation costs 94.492038 seconds
+Proof generation costs 1.333118 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+Proof verification costs 5.664022 seconds
+8-th exp in Replica 4
+Running...
+Tag generation costs 94.365644 seconds
+Proof generation costs 1.332803 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+Proof verification costs 5.658611 seconds
+9-th exp in Replica 4
+Running...
+Tag generation costs 94.728947 seconds
+Proof generation costs 1.340069 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+Proof verification costs 5.682138 seconds
+10-th exp in Replica 4
+Running...
+Tag generation costs 94.571888 seconds
+Proof generation costs 1.331781 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+Proof verification costs 5.639806 seconds
+5
+1-th exp in Replica 5
+Running...
+Tag generation costs 118.666602 seconds
+Proof generation costs 1.664257 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+Proof verification costs 7.075170 seconds
+2-th exp in Replica 5
+Running...
+Tag generation costs 118.397985 seconds
+Proof generation costs 1.664664 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+Proof verification costs 7.095413 seconds
+3-th exp in Replica 5
+Running...
+Tag generation costs 117.995764 seconds
+Proof generation costs 1.667292 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+Proof verification costs 7.076993 seconds
+4-th exp in Replica 5
+Running...
+Tag generation costs 116.868406 seconds
+Proof generation costs 1.673463 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+Proof verification costs 7.081432 seconds
+5-th exp in Replica 5
+Running...
+Tag generation costs 117.692060 seconds
+Proof generation costs 1.662685 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+Proof verification costs 7.050991 seconds
+6-th exp in Replica 5
+Running...
+Tag generation costs 118.353087 seconds
+Proof generation costs 1.677976 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+Proof verification costs 7.144740 seconds
+7-th exp in Replica 5
+Running...
+Tag generation costs 118.423216 seconds
+Proof generation costs 1.663852 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+Proof verification costs 7.045017 seconds
+8-th exp in Replica 5
+Running...
+Tag generation costs 117.563313 seconds
+Proof generation costs 1.666181 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+Proof verification costs 7.060946 seconds
+9-th exp in Replica 5
+Running...
+Tag generation costs 118.353690 seconds
+Proof generation costs 1.672760 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+Proof verification costs 7.070977 seconds
+10-th exp in Replica 5
+Running...
+Tag generation costs 117.424384 seconds
+Proof generation costs 1.664837 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+Proof verification costs 7.062034 seconds
+6
+1-th exp in Replica 6
+Running...
+Tag generation costs 141.712876 seconds
+Proof generation costs 1.996735 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+Proof verification costs 8.473125 seconds
+2-th exp in Replica 6
+Running...
+Tag generation costs 141.446575 seconds
+Proof generation costs 1.996054 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+Proof verification costs 8.470951 seconds
+3-th exp in Replica 6
+Running...
+Tag generation costs 142.445190 seconds
+Proof generation costs 2.010389 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+Proof verification costs 8.530307 seconds
+4-th exp in Replica 6
+Running...
+Tag generation costs 141.633725 seconds
+Proof generation costs 2.009730 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+Proof verification costs 8.540374 seconds
+5-th exp in Replica 6
+Running...
+Tag generation costs 141.818088 seconds
+Proof generation costs 1.995301 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+Proof verification costs 8.463410 seconds
+6-th exp in Replica 6
+Running...
+Tag generation costs 141.379593 seconds
+Proof generation costs 1.997533 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+Proof verification costs 8.478147 seconds
+7-th exp in Replica 6
+Running...
+Tag generation costs 141.289809 seconds
+Proof generation costs 2.001844 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+Proof verification costs 8.514734 seconds
+8-th exp in Replica 6
+Running...
+Tag generation costs 141.601366 seconds
+Proof generation costs 1.996596 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+Proof verification costs 8.476898 seconds
+9-th exp in Replica 6
+Running...
+Tag generation costs 141.567133 seconds
+Proof generation costs 1.997361 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+Proof verification costs 8.464821 seconds
+10-th exp in Replica 6
+Running...
+Tag generation costs 141.616991 seconds
+Proof generation costs 1.999565 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+Proof verification costs 8.476717 seconds
+7
+1-th exp in Replica 7
+Running...
+Tag generation costs 165.099005 seconds
+Proof generation costs 2.336850 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+Proof verification costs 9.935943 seconds
+2-th exp in Replica 7
+Running...
+Tag generation costs 164.744677 seconds
+Proof generation costs 2.340878 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+Proof verification costs 9.885147 seconds
+3-th exp in Replica 7
+Running...
+Tag generation costs 165.473246 seconds
+Proof generation costs 2.330062 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+Proof verification costs 9.880242 seconds
+4-th exp in Replica 7
+Running...
+Tag generation costs 164.125424 seconds
+Proof generation costs 2.328931 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+Proof verification costs 9.887987 seconds
+5-th exp in Replica 7
+Running...
+Tag generation costs 164.819616 seconds
+Proof generation costs 2.331887 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+Proof verification costs 9.890436 seconds
+6-th exp in Replica 7
+Running...
+Tag generation costs 164.717670 seconds
+Proof generation costs 2.343917 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+Proof verification costs 9.905669 seconds
+7-th exp in Replica 7
+Running...
+Tag generation costs 165.145462 seconds
+Proof generation costs 2.326770 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+Proof verification costs 9.868610 seconds
+8-th exp in Replica 7
+Running...
+Tag generation costs 165.151542 seconds
+Proof generation costs 2.347806 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+Proof verification costs 9.915377 seconds
+9-th exp in Replica 7
+Running...
+Tag generation costs 165.334927 seconds
+Proof generation costs 2.354926 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+Proof verification costs 9.946299 seconds
+10-th exp in Replica 7
+Running...
+Tag generation costs 164.047480 seconds
+Proof generation costs 2.330412 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+Proof verification costs 9.884200 seconds
+8
+1-th exp in Replica 8
+Running...
+Tag generation costs 189.335243 seconds
+Proof generation costs 2.671588 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+Proof verification costs 11.790029 seconds
+2-th exp in Replica 8
+Running...
+Tag generation costs 188.822454 seconds
+Proof generation costs 2.677410 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+Proof verification costs 11.325137 seconds
+3-th exp in Replica 8
+Running...
+Tag generation costs 188.959454 seconds
+Proof generation costs 2.662945 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+Proof verification costs 11.299330 seconds
+4-th exp in Replica 8
+Running...
+Tag generation costs 188.819884 seconds
+Proof generation costs 2.663394 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+Proof verification costs 11.357159 seconds
+5-th exp in Replica 8
+Running...
+Tag generation costs 188.676353 seconds
+Proof generation costs 2.684471 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+Proof verification costs 11.341428 seconds
+6-th exp in Replica 8
+Running...
+Tag generation costs 189.445827 seconds
+Proof generation costs 2.694433 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+Proof verification costs 11.396688 seconds
+7-th exp in Replica 8
+Running...
+Tag generation costs 190.001267 seconds
+Proof generation costs 2.700178 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+Proof verification costs 11.408594 seconds
+8-th exp in Replica 8
+Running...
+Tag generation costs 188.628819 seconds
+Proof generation costs 2.660659 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+Proof verification costs 11.282869 seconds
+9-th exp in Replica 8
+Running...
+Tag generation costs 187.656667 seconds
+Proof generation costs 2.681083 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+Proof verification costs 11.367889 seconds
+10-th exp in Replica 8
+Running...
+Tag generation costs 189.148270 seconds
+Proof generation costs 2.668623 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+Proof verification costs 11.340286 seconds
+9
+1-th exp in Replica 9
+Running...
+Tag generation costs 212.252445 seconds
+Proof generation costs 3.000304 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+Proof verification costs 12.727090 seconds
+2-th exp in Replica 9
+Running...
+Tag generation costs 212.163501 seconds
+Proof generation costs 2.999002 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+Proof verification costs 12.729497 seconds
+3-th exp in Replica 9
+Running...
+Tag generation costs 212.523719 seconds
+Proof generation costs 3.009036 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+Proof verification costs 12.718666 seconds
+4-th exp in Replica 9
+Running...
+Tag generation costs 212.477481 seconds
+Proof generation costs 3.020366 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+Proof verification costs 12.824254 seconds
+5-th exp in Replica 9
+Running...
+Tag generation costs 213.180575 seconds
+Proof generation costs 3.005813 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+Proof verification costs 12.773706 seconds
+6-th exp in Replica 9
+Running...
+Tag generation costs 212.801849 seconds
+Proof generation costs 3.015832 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+Proof verification costs 12.792242 seconds
+7-th exp in Replica 9
+Running...
+Tag generation costs 212.411311 seconds
+Proof generation costs 2.996057 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+Proof verification costs 12.683574 seconds
+8-th exp in Replica 9
+Running...
+Tag generation costs 211.891132 seconds
+Proof generation costs 3.018747 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+Proof verification costs 12.798195 seconds
+9-th exp in Replica 9
+Running...
+Tag generation costs 214.207459 seconds
+Proof generation costs 3.028584 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+Proof verification costs 12.817360 seconds
+10-th exp in Replica 9
+Running...
+Tag generation costs 212.608485 seconds
+Proof generation costs 3.022833 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+Proof verification costs 12.810264 seconds
+10
+1-th exp in Replica 10
+Running...
+Tag generation costs 237.090231 seconds
+Proof generation costs 3.354016 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+proof verifies in Replica 9
+Proof verification costs 14.145402 seconds
+2-th exp in Replica 10
+Running...
+Tag generation costs 238.350928 seconds
+Proof generation costs 3.351617 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+proof verifies in Replica 9
+Proof verification costs 14.244333 seconds
+3-th exp in Replica 10
+Running...
+Tag generation costs 235.242421 seconds
+Proof generation costs 3.331165 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+proof verifies in Replica 9
+Proof verification costs 14.176992 seconds
+4-th exp in Replica 10
+Running...
+Tag generation costs 236.456772 seconds
+Proof generation costs 3.351210 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+proof verifies in Replica 9
+Proof verification costs 14.225671 seconds
+5-th exp in Replica 10
+Running...
+Tag generation costs 235.298159 seconds
+Proof generation costs 3.343608 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+proof verifies in Replica 9
+Proof verification costs 14.138465 seconds
+6-th exp in Replica 10
+Running...
+Tag generation costs 236.645144 seconds
+Proof generation costs 3.329522 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+proof verifies in Replica 9
+Proof verification costs 14.138113 seconds
+7-th exp in Replica 10
+Running...
+Tag generation costs 234.270800 seconds
+Proof generation costs 3.351546 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+proof verifies in Replica 9
+Proof verification costs 14.154419 seconds
+8-th exp in Replica 10
+Running...
+Tag generation costs 238.471585 seconds
+Proof generation costs 3.344290 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+proof verifies in Replica 9
+Proof verification costs 14.201201 seconds
+9-th exp in Replica 10
+Running...
+Tag generation costs 237.179607 seconds
+Proof generation costs 3.342997 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+proof verifies in Replica 9
+Proof verification costs 14.165401 seconds
+10-th exp in Replica 10
+Running...
+Tag generation costs 234.317279 seconds
+Proof generation costs 3.350136 seconds
+proof verifies in Replica 0
+proof verifies in Replica 1
+proof verifies in Replica 2
+proof verifies in Replica 3
+proof verifies in Replica 4
+proof verifies in Replica 5
+proof verifies in Replica 6
+proof verifies in Replica 7
+proof verifies in Replica 8
+proof verifies in Replica 9
+Proof verification costs 14.169017 seconds
